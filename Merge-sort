@@ -1,0 +1,84 @@
+[33mcommit 4b7b06f87de02a14eb05cfe9349ed2fcf7cfdeb6[m[33m ([m[1;36mHEAD -> [m[1;32mmergesort[m[33m)[m
+Merge: bd85cfc dd2979f
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Thu Jul 13 14:12:31 2023 +0300
+
+    Merge remote-tracking branch 'new-origin/master' into mergesort
+
+[33mcommit bd85cfce33315888550c715fb1fccad46b5ec8e4[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Tue Feb 21 18:07:41 2023 +0200
+
+    version history add
+
+[33mcommit 6e380dd74769f5850782e408c1d5c8e0918b6a99[m[33m ([m[1;31mupstream/main[m[33m)[m
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Sun Jun 5 13:11:51 2022 +0300
+
+    syntax fix
+
+[33mcommit f28c74e64810760e6e5ad0f1d1407bc588ecb0ea[m
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Sun Jun 5 13:08:14 2022 +0300
+
+    empty line
+
+[33mcommit b1aff8f8f8aceac9f0b40841a988e3763acf0893[m
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Sun Jun 5 13:03:18 2022 +0300
+
+    readme
+
+[33mcommit 0df519ebe3c4e442f63e5ff02f253efa87780af1[m
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Sun Jun 5 12:56:34 2022 +0300
+
+    initial commit
+
+[33mcommit 417525d761678b5b2f79a6e2ddd788ece1e62a7b[m
+Author: cxotro <otso.rouhiainen@tuni.fi>
+Date:   Sun Jun 5 12:53:31 2022 +0300
+
+    first commit
+
+[33mcommit dd2979f9609ce45e6739a9e07b895342efa62956[m[33m ([m[1;31mnew-origin/master[m[33m)[m
+Author: Mikko Luhtasaari <mikko.luhtasaari@tuni.fi>
+Date:   Tue May 12 13:11:49 2020 +0300
+
+    Add file to test settings
+
+[33mcommit 4e6605f7f49a0c6632248c60145f2da46addc89a[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:47:54 2019 -0700
+
+    A simple test
+
+[33mcommit 07291091b01a983d256488357b263ddb087d0188[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:14:09 2019 -0700
+
+    Removed debug-prints
+
+[33mcommit dd8c56cede9b109c1df7bda13abc1b1b7b79ed0b[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:12:41 2019 -0700
+
+    Merge-sort
+
+[33mcommit b6fd9edcecad84d37e52e93a9acbd02233163316[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:47:04 2019 -0700
+
+    Strings to integers
+
+[33mcommit be5d6373836d9d693c1d9e1dffb518f9331e4ff8[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:41:24 2019 -0700
+
+    Basic input
+
+[33mcommit e1b91edb8eeeee33b43c93653e3419a14efedd5f[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:22:41 2019 -0700
+
+    Initial commit.
